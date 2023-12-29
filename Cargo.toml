@@ -1,0 +1,11 @@
+[package]
+authors = ["Will Parsons <https://www.linkedin.com/in/twexxor/>"]
+categories = ["algorithms", "embedded", "encoding", "game-development", "internationalization", "localization", "no-std"]
+description = "Convert UTF-32 to UTF-8 encoding for an array of numbers."
+documentation = "https://github.com/twexxor/rust-utf-32-to-utf-8/blob/master/README.md"
+homepage = "https://entrocraft.com/dungeon/character-encoding-algorithms/utf-32-to-utf-8/"
+keywords = ["bom", "decode", "encode", "utf-32be", "utf-32le"]
+license = "MIT"
+name = "utf-32-to-utf-8"
+repository = "https://github.com/twexxor/rust-utf-32-to-utf-8"
+version = "1.0.0"
